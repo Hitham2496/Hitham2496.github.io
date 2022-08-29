@@ -1,25 +1,28 @@
 ---
 layout: about
-title: Hitham Hassan
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: durham-upscaled.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+subtitle: PhD Candidate | Software Developer | Data Scientist
+news: false # true  # includes a list of news items
+selected_papers: false # true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I'm Hitham, a PhD Candidate at the IPPP, Durham University.
 
-I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, **communicating** the results of my research to **diverse audiences** and with a demonstrable ocmmitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
+I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, **communicating** the results of my research to **diverse audiences**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My software development and data science experience includes confident proficiency in **C++** and **Python** with relevant supporting experience in the **Linux/Unix** development environment.
+
+I routinely develop with modern version control systems such as Git (**GitLab** and **GitHub**), making use of **Continuous Integration** to instruct the development of my software according to a **testing-driven** approach.
+
+Additionally, I have demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
+
+In my spare time I enjoy reading (historical fiction is my preferred genre), running, long walks on the beach and creative writing.
