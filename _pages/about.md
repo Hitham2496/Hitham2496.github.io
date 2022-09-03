@@ -8,6 +8,8 @@ profile:
   image: durham-upscaled.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>Durham Cathedral</p>
+
 
 subtitle: PhD Candidate | Software Developer | Data Scientist
 news: false # true  # includes a list of news items
