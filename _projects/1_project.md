@@ -1,80 +1,80 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/top_jets.png
+title: EventPlotter
+description: A Python module for visualising events from High Energy Physics (HEP) simulations
+img: assets/img/output_wm_4j.png
 importance: 1
-category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project (still in development) is a Python module I am developing to **visualise** the complex
+**data structures** used in High Energy Physics (HEP) simulations.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Monte Carlo** event generators produce *events* as output which are containers of the particles
+produced in a scattering experiment with extra information including intermediate particles, decay
+products and initial parameters.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Analysing this output is difficult as such events are inherently visual phenomena, this library aims
+to streamline the process of translating these configurations to a format that makes them easier to
+analyse, with multiple options for customisation.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="../../assets/pdf/output_wm_4j.pdf">
+        {% include figure.html path="assets/img/output_wm_4j.png" title="W+4 jet event" class="img-fluid rounded z-depth-1" %}
+    </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="../../assets/pdf/output_wm_5j.pdf">
+        {% include figure.html path="assets/img/output_wm_5j.png" title="W+5 jet event" class="img-fluid rounded z-depth-1" %}
+    </a>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Examples of such heat maps for the production of a standard model W- boson at the LHC in association with 4 jets (left)
+    and 5 jets (right). The decay products of the boson (an electron and antineutrino are shown as crosses)
 </div>
+
+This module currently displays events as **heat maps** in rapidity-azimuthal angle space with the
+third axis coloured according to the transverse momentum of the particle.
+
+This also allows for complex **statistical analyses** of multiple events, those shown above are
+averages of the evolution of the input configurations shown below. The averages can be
+conducted with respect to a **user-defined measure** and allows for selecting how the plots are
+filled.
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="../../assets/pdf/input_wm_4j.pdf">
+        {% include figure.html path="assets/img/input_wm_4j.png" title="W+4 jet event" class="img-fluid rounded z-depth-1" %}
+    </a>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="../../assets/pdf/input_wm_5j.pdf">
+        {% include figure.html path="assets/img/input_wm_5j.png" title="W+5 jet event" class="img-fluid rounded z-depth-1" %}
+    </a>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The input configurations corresponding to the averaged, evolved plots above. The left and right plots
+    here are repsectively the input for the left and right images above.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Early forms of this module have been used by myself and colleagues in the IPPP for debugging which has
+prompted me to formalise the project.
 
+Currently the project contains classes for particles and events and reader classes for different formats
+including the widely used Les Houches Event (LHE) format as well as the option to write a custom reader.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+I would like to add much more to the project including:
+<ul>
+    <li>
+    More customisability to plotting routines (e.g. colormaps, user identification of which
+    particles are plotted, ...).
+    </li>
+    <li>
+    Option to plot general variables (e.g. create distributions from events).
+    </li>
+</ul>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+The code is hosted on [GitHub](https://github.com/Hitham2496/EventPlotter) and will
+be made public after release.

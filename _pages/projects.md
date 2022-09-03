@@ -2,10 +2,19 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
 horizontal: false
+---
+
+Outside my academic career I have actively engaged with my interests in **computing**
+and started several personal projects to both simplify my research and explore
+fields outside the scope of my work.
+
+Additionally, I have attended several further courses to strengthen the basis of
+this extended knowledge including courses in <b>data science, high throughput
+computing</b> (including <b>parallelisation</b>) and <b>Monte Carlo</b> methods.
+
 ---
 
 <!-- pages/projects.md -->
