@@ -11,13 +11,13 @@ profile:
     <p>Durham Cathedral</p>
 
 
-subtitle: PhD Candidate | Software Developer | Data Scientist
-news: false # true  # includes a list of news items
-selected_papers: false # true # includes a list of papers marked as "selected={true}"
+subtitle: Ph.D. Candidate | Software Developer | Data Scientist
+news: false
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Hitham, a PhD Candidate at the IPPP, Durham University.
+I'm Hitham, a Ph.D. Candidate at the IPPP, Durham University.
 
 I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, **communicating** the results of my research to **diverse audiences**.
 
@@ -25,6 +25,8 @@ My software development and data science experience includes confident proficien
 
 I routinely develop with modern version control systems such as Git (**GitLab** and **GitHub**), making use of **Continuous Integration** to instruct the development of my software according to a **testing-driven** approach.
 
+I have nurtured an interest in **bioinformatics** and kept up to date with developments in data science and **data visualisation** and have attended EMBL-EBI courses in several pertinent ares to solidify and formalise this interest.
+
 Additionally, I have demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
-In my spare time I enjoy reading (historical fiction is my preferred genre), running, long walks on the beach and creative writing.
+#In my spare time I enjoy reading (historical fiction is my preferred genre), running, long walks on the beach and creative writing.
