@@ -25,7 +25,7 @@ My software development and data science experience includes confident proficien
 
 I routinely develop with modern version control systems such as Git (**GitLab** and **GitHub**), making use of **Continuous Integration** to instruct the development of my software according to a **testing-driven** approach.
 
-I have nurtured an interest in **bioinformatics** and kept up to date with developments in data science and **data visualisation** and have attended courses on **data intensive science** and on the **EMBL-EBI** toolkit and other pertinent areas to solidify and formalise this interest.
+I have been proactive about nurturing my interests in **data science**, **informatics** and **bioinformatics** outside of my academic career and have kept up to date with developments in these fields and setting myself personal projects. I have additionally attended courses on **data intensive science** and on the **EMBL-EBI** bioinformatics toolkit and other pertinent areas to solidify and formalise these interests.
 
 Additionally, I have demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
