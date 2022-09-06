@@ -10,7 +10,7 @@ I have been privileged to have had ample opportunity during my academic career t
 
 My presentations have always prompted productive discussion and incurred positive developments in the communities I give them - many have complimented the **easily comprehensible** design of my slides and my **engaging diction** when presenting as well as the well thought-out interactive nature of my computing talks.
 
-Here I list presentations given throughout my time as a PhD candidate at Durham University.
+Here I list presentations given throughout my time as a Ph.D. candidate at Durham University.
 
 ---
 
@@ -117,6 +117,6 @@ I presented to this audience the **core concepts**, **aims** and **achievements*
 
 This meant **adapting** the material of my research and being decisive in the **selection** of pertinent details when **communicating the complex science** that my research concerned and responding to questions.
 
-This was my first foray into presenting the results of my research as a PhD student was an invaluable learning experience.
+This was my first foray into presenting the results of my research as a Ph.D. student was an invaluable learning experience.
 
 The feedback I received from the convener (Prof. Elisabeth Archibald, then principal of St. Cuthbert's Society) and the audience was **overwhelmingly positive**, with everyone leaving the session with a clear impression of the relevant aspects of my research. 
