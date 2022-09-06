@@ -14,7 +14,6 @@ during my time as a Ph.D. candidate researcher at the IPPP, Durham University.
 The work is currently ongoing and thus the publication dates are
 approximate - reflecting our expectation of when they will be published.
 
----
 <!-- _pages/publications.md -->
 <div class="publications">
 
