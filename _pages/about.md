@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Hitham, a Ph.D. Candidate at the [IPPP](ippp.dur.ac.uk/), Durham University.
 
-I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, **communicating** the results of my research to **diverse audiences**.
+I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, and **communicating** the results of my research to **diverse audiences**.
 
 My software development and data science experience includes confident proficiency in **C++** and **Python** with relevant supporting experience in the **Linux/Unix** development environment.
 
