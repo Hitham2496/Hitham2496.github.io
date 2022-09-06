@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Hitham, a Ph.D. Candidate at the IPPP, Durham University.
+I'm Hitham, a Ph.D. Candidate in theoretical particle physics at the [IPPP](ippp.dur.ac.uk/), Durham University.
 
 I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, **communicating** the results of my research to **diverse audiences**.
 
