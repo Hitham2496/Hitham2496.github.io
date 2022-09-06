@@ -7,8 +7,8 @@ importance: 3
 category: fun
 ---
 
-This script was produced in 2018 as part of a summer studentship supervised by Dr. Jonas Lindert
-and Prof. Frank Krauss at the [IPPP](https://www.ippp.dur.ac.uk/).
+This script and analysis was produced in 2018 as part of a summer studentship supervised by
+Dr. Jonas Lindert and Prof. Frank Krauss at the [IPPP](https://www.ippp.dur.ac.uk/).
 
 It analyses data from simulations of the LHC from
 [SHERPA](https://sherpa.hepforge.org/doc/SHERPA-MC-2.2.2.html) with jets originating from the decay
