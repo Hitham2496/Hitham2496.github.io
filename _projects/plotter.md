@@ -4,7 +4,7 @@ title: Plotter
 description: A simple routine to produce publication-quality plots from <code>rivet-mkhtml</code>
 img: assets/img/jet_rates.png
 importance: 3
-category: work
+category: project
 ---
 
 The HEP analysis package [Rivet](rivet.hepforge.org/) is an incredibly versatile tool for analysing

@@ -4,6 +4,7 @@ title: EventPlotter
 description: A Python module for visualising events from High Energy Physics (HEP) simulations
 img: assets/img/output_wm_4j.png
 importance: 1
+category: project
 ---
 
 This project (still in development) is a Python module I am developing to **visualise** the complex

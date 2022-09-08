@@ -4,7 +4,7 @@ title: TopClassifier
 description: Unsupervised machine learning and image pre-processing to classify top quark jets at the LHC
 img: assets/img/top_jets.png
 importance: 3
-category: fun
+category: project
 ---
 
 This script and analysis was produced in 2018 as part of a summer studentship supervised by

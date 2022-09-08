@@ -3,6 +3,7 @@ layout: page
 title: dbinterpy
 description: Simple Python wrapper module around basic SQL commands
 img: assets/img/databases.jpg
+category: project
 importance: 2
 ---
 
