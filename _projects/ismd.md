@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All-Order Merging of High Energy and Soft-Collinear Logarithms
-description: 4th August 2022 ––– ISMD 2022 ––– Atholl Palace Hotel, Pitlochry, Scotland
+title: All-Order Merging of High Energy and Soft-Collinear Resummation
+description: 4th August 2022 ––– ISMD 2022 ––– Pitlochry, Scotland
 img: assets/img/tummel-square.jpg
 importance: 1
 category: presentation
