@@ -11,7 +11,7 @@ nav_order: 1
 Shown below are my upcoming research publications for work undertaken
 during my time as a Ph.D. candidate researcher at the IPPP, Durham University.
 
-The work is currently ongoing and thus the publication dates are
+Where work is currently ongoing the publication dates provided are
 approximate - reflecting our expectation of when they will be published.
 
 <!-- _pages/publications.md -->
