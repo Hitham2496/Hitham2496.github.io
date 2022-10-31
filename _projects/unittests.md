@@ -3,7 +3,7 @@ layout: page
 title: Python Projects and Unit Testing
 description: 22nd February 2022 ––– IPPP Computing Club Seminar ––– Durham University
 img: assets/img/python-logo.png
-importance: 3
+importance: 4
 category: presentation
 ---
 

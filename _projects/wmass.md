@@ -3,7 +3,7 @@ layout: page
 title: Investigating the W Mass with HERWIG
 description: 24th June 2022 ––– MCNet Summer School 2022 ––– Zakopane, Poland
 img: assets/img/mcnet-square.jpg
-importance: 2
+importance: 3
 category: presentation
 ---
 

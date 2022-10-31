@@ -3,7 +3,7 @@ layout: page
 title: Debugging C++ with <code>gdb</code>
 description: 21st November 2021 ––– IPPP Computing Club Seminar ––– Durham University
 img: assets/img/debugging.png
-importance: 4
+importance: 5
 category: presentation
 ---
 
