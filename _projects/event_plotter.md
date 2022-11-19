@@ -63,8 +63,8 @@ filled.
 Early forms of this module have been used by myself and colleagues in the IPPP for debugging which has
 prompted me to formalise the project.
 
-Currently the project contains classes for particles and events and reader classes for different formats
-including the widely used Les Houches Event (LHE) format as well as the option to write a custom reader.
+Currently the project contains classes for particles and events and plotter routines to produce plots
+such as those seen above.
 
 I would like to add much more to the project including:
 <ul>
@@ -75,7 +75,10 @@ I would like to add much more to the project including:
     <li>
     Option to plot general variables (e.g. create distributions from events).
     </li>
+    <li>
+    Produce more formal event reader functionality for standardised formats.
+    </li>
 </ul>
 
-The code is hosted on [GitHub](https://github.com/Hitham2496/EventPlotter) and will
-be made public after release.
+The code is hosted on [GitHub](https://github.com/Hitham2496/EventPlotter), I have taken a temporary break
+from development to focus on finishing my PhD studies.
