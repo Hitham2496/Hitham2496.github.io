@@ -29,5 +29,5 @@ This also presented newer attendees with an opportunity to see how one can lay o
 
 As with most of my computing club presentations, the presentation included an **instructive** and **interactive** component wherein attendees profiled and inefficient and an optimised implementation of a procedure to calculate the complement of a **gene nucleotide sequence** in **C++** and **Python**.
 
-The presented material - available on [GitHub](https://github.com/Hitham2496/profiling-presentation) - was very well received by audience members fo all computing backgrounds and experience levels.
+The presented material - available on [GitHub](https://github.com/Hitham2496/profiling-presentation) - was very well received by audience members of all computing backgrounds and experience levels.
 
