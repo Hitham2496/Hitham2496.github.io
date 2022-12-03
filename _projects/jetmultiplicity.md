@@ -22,5 +22,5 @@ Shown in the figure is a pivotal set of calculations from my research, the dijet
 
 In this plot one can clearly see the separation between the Higgs production mechanisms (vector boson fusion or VBF and gluon fusion or GF) which was the objective of the study.
 
-The feedback I received from the convener (Prof. Elisabeth Archibald, then principal of St. Cuthbert's Society) and the audience was **overwhelmingly positive**, with everyone leaving the session with a clear impression of the relevant aspects of my research.
+The feedback I received from the convener (Prof. Elizabeth Archibald, then principal of St. Cuthbert's Society) and the audience was **overwhelmingly positive**, with everyone leaving the session with a clear impression of the relevant aspects of my research.
 
