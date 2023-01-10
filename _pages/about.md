@@ -31,6 +31,6 @@ To further solidify these interests I have sought out and attended courses on **
 
 Additionally, I have demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
-I expect to hand in my thesis in March 2023 and seek to develop my skills with a **challenging** and **rewarding** job performing research in industry, making use of my cultivated skills and interests.
+I expect to submit my thesis in March 2023 and seek to develop my skills with a **challenging** and **rewarding** career in software engineering, data science and research in industry, making use of my cultivated skills and interests.
 
 In my spare time I enjoy reading fiction, bouldering, running, long walks on the beach and creative writing.
