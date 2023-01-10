@@ -60,25 +60,14 @@ filled.
     here are repsectively the input for the left and right images above.
 </div>
 
-Early forms of this module have been used by myself and colleagues in the IPPP for debugging which has
-prompted me to formalise the project.
+Early forms of this module have been used by myself and colleagues in the IPPP for debugging during software
+development and for publication-ready plots.
+
+The wide use-case of the tools developed prompted me to formalise the project.
 
 Currently the project contains classes for particles and events and plotter routines to produce plots
-such as those seen above.
+such as those seen above as well as a reader class for event data.
 
-I would like to add much more to the project including:
-<ul>
-    <li>
-    More customisability to plotting routines (e.g. colormaps, user identification of which
-    particles are plotted, ...).
-    </li>
-    <li>
-    Option to plot general variables (e.g. create distributions from events).
-    </li>
-    <li>
-    Produce more formal event reader functionality for standardised formats.
-    </li>
-</ul>
+The code is hosted on [GitHub](https://github.com/Hitham2496/EventPlotter), where issues and development are logged.
 
-The code is hosted on [GitHub](https://github.com/Hitham2496/EventPlotter), I have taken a temporary break
-from development to focus on finishing my PhD studies.
+Methods to build documentation for the module are supplied in the repository.
