@@ -33,6 +33,6 @@ Additionally, I have demonstrated strong commitment to engaging with **outreach*
 
 I expect to submit my thesis in March 2023 and seek to develop my skills with a **challenging** and **rewarding** career in software engineering and/or data science in industry.
 
-The work I would find most fulfilling would be research and innovation for world-leaders in fields that produce a positive impact on the world.
+The work I would find most fulfilling would be research and innovation for pioneering companies in fields that produce a positive impact on the world.
 
 In my spare time I enjoy reading fiction, bouldering, running, long walks on the beach and creative writing.
