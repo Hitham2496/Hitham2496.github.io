@@ -31,7 +31,7 @@ To further solidify these interests I have sought out and attended courses on **
 
 Additionally, I have demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
-I expect to submit my thesis in March 2023 and seek to develop my skills with a **challenging** and **rewarding** career in software engineering and/or data science in industry.
+I expect to submit my thesis at the end of May 2023 and seek to develop my skills with a **challenging** and **rewarding** career in software engineering and/or data science in industry.
 
 The work I would find most fulfilling would be research and innovation for pioneering companies in fields that produce a positive impact on the world.
 
