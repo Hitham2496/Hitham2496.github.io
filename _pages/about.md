@@ -27,7 +27,7 @@ I routinely develop with modern version control systems such as Git (**GitLab** 
 
 I have been proactive about nurturing my interests in **climate science**, **data science**, **informatics** and **bioinformatics** outside of my academic career and have kept up to date with developments in these fields by setting myself personal projects.
 
-To further solidify these interests I have sought out and attended courses on **data intensive science** and on the **EMBL-EBI** bioinformatics toolkit (including the **Ensembl** gene database, **InterPro** and **UniProt** protein databases and **IntAct** molecular databases among others).
+# To further solidify these interests I have sought out and attended courses on **data intensive science** and on the **EMBL-EBI** bioinformatics toolkit (including the **Ensembl** gene database, **InterPro** and **UniProt** protein databases and **IntAct** molecular databases among others).
 
 Additionally, I have demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
