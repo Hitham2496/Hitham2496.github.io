@@ -8,7 +8,7 @@ profile:
   image: durham-upscaled.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Durham Cathedral - taken by me across the river</p>
+    <p>Durham Cathedral - taken by me across the Wear</p>
 
 
 subtitle: Ph.D. Candidate | Software Developer | Data Scientist
