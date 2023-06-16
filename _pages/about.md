@@ -23,7 +23,7 @@ I am a talented **researcher** in theoretical particle physics, experienced in *
 
 My software development and data science experience includes confident proficiency in **C++** and **Python** with relevant supporting experience in the **Linux/Unix** development environment.
 
-I routinely develop with modern version control systems such as Git (**GitLab** and **GitHub**), making use of **Continuous Integration** to instruct the development of my software according to a **testing-driven** approach.
+I develop with modern version control systems such as Git (**GitLab** and **GitHub**), making use of **Continuous Integration** to instruct the development of my software according to a **testing-driven** approach.
 
 I have been proactive about nurturing my interests in **climate science**, **data science**, **informatics** and **bioinformatics** outside of my academic career and have kept up to date with developments in these fields by setting myself personal projects.
 
