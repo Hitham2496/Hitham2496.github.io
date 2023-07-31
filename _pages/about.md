@@ -29,7 +29,7 @@ I have been proactive about nurturing my interests in **climate science**, **dat
 
 Additionally, I have consistently demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
-I have submitted my PhD thesis as of 31 May 2023 and seek to develop my skills with a **challenging** and **rewarding** career in software engineering and/or data science in industry, following my VIVA examination in July 2023.
+I have submitted my PhD thesis as of 31 May 2023 and seek to develop my skills with a **challenging** and **rewarding** career in software engineering and/or data science in industry, following my VIVA examination in September 2023.
 
 The work I would find most fulfilling would be research and innovation for pioneering companies in fields that produce a positive impact on the world.
 
