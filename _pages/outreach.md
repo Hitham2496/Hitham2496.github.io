@@ -8,13 +8,10 @@ display_categories: outreach
 horizontal: false
 ---
 
-Outside my academic career I have actively engaged with my interests in **computing**
-and started several personal projects to both simplify my research and explore
-fields outside the scope of my work.
-
-Additionally, I have attended several further courses to strengthen the basis of
-this extended knowledge including courses in <b>data science, high throughput
-computing</b> (including <b>parallelisation</b>) and <b>Monte Carlo</b> methods.
+I have accumulated much **supporting experience** throughout my time as a postgraduate
+researcher at Durham University, this includes commitment to **outreach** and **EDI**
+initiatives as well as **teaching** and **training** courses as well as experience
+**supervising** students.
 
 ---
 
@@ -57,7 +54,7 @@ ___
 
 ## Teaching
 
-The following is a list of courses I have demonstrated and taught at Durham University:
+The following is a list of courses I have demonstrated and/or taught at Durham University:
 - Nov 2022: Demonstrator for practical sessions in **data science** courses for **postgraduate students**, focusing
   on **High Performance Computing** including **OpenMP** and **MPI**.
 - Sept 2022 - Mar 2023: Demonstrator for undergraduate workshops in **Clasical Mechanics**.
