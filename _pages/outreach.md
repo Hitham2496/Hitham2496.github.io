@@ -10,7 +10,7 @@ horizontal: false
 
 I have accumulated significant **supporting experience** throughout my time as a postgraduate
 researcher at Durham University, this includes commitment to **outreach** and **EDI**
-initiatives as well as **teaching** and **training** courses as well as experience
+initiatives as well as **teaching** and **training** courses, and experience
 **supervising** students.
 
 ---
