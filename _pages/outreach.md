@@ -50,7 +50,7 @@ Below is a selection of relevant training courses and workshops I have attended:
 - May 2022: [15th Monte Carlo Net Summer School and Krakow School of Theoretical Physics](https://indico.cern.ch/event/1104027/registrations/78079/) (Jagiellonian University, Krakow)
 - Sept 2021: [STFC Data Intensive Science Summer School 2021](https://www.durham.ac.uk/departments/academic/physics/about-us/events/stfc-data-intensive-science-summer-school-2021/)
 
-___
+---
 
 ## Teaching
 
@@ -72,3 +72,13 @@ from 2021-2023, this experience includes:
 - Liasing with administrative staff, staff from other institutions to make graduate recruitment process
 more equitable.
 - Co-drafted code of conduct for conferences at the institute within the context of EDI.
+
+
+## President of YTF22 Conference Organising Committee
+IPPP, Durham University (Sept 2022 - Jan 2023)
+- Led the organisation of a hybrid conference of **~80 in-person** and **~40 online** attendees for early career researchers from around the UK.
+- Displayed strong **organisational** and **management** skills in **directing a committee** of 10 for the months before and after the conference.
+- Secured **funding** amounting to over 5,000 GBP from several sponsors including research groups from the [Institute of Physics](https://www.iop.org/) and other **academic** and **corporate institutions**.
+- Ensured smooth running of the conference by **managing the available time** to overcome **logistical** hurdles well in advance of the conference and oversaw the **publicising** of the event to other institutions.
+- Gathered experience producing **risk assessments** and taking **health and safety** precautions for large events.
+- Co-developed conference **website**, which is hosted by [Indico](https://conference.ippp.dur.ac.uk/event/1141/).
