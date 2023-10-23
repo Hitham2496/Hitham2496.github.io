@@ -29,8 +29,8 @@ I have been proactive about nurturing my interests in **climate science**, **dat
 
 Additionally, I have consistently demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
-I have submitted my PhD thesis as of 31 May 2023 and seek to develop my skills with a **challenging** and **rewarding** career in industry, following my VIVA examination on the 19th October 2023.
+I submitted my PhD thesis on 31 May 2023 and passed my VIVA examination with minor corrections on 19th October 2023, now I seek to develop my skills with a **challenging** and **rewarding** career in industry.
 
 The work I would find most fulfilling would be research and innovation for pioneering companies in fields that produce a positive impact on the world.
 
-In my spare time I enjoy reading fiction, bouldering, running, long walks on the beach and creative writing.
+In my spare time I enjoy reading fiction, bouldering, running, long walks on the beach, and creative writing.
