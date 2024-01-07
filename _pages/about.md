@@ -11,13 +11,13 @@ profile:
     <p>Durham Cathedral - taken by me across the Wear</p>
 
 
-subtitle: Ph.D. Candidate | Software Developer | Data Scientist
+subtitle: Ph.D. Graduate | Software Developer | Data Scientist
 news: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Hitham, a Ph.D. Candidate at the [IPPP](ippp.dur.ac.uk/), Durham University.
+I'm Hitham, a Ph.D. Graduate at the [IPPP](ippp.dur.ac.uk/), Durham University.
 
 I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, and **communicating** the results of my research to **diverse audiences**.
 
