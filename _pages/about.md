@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Hitham, a Ph.D. Graduate at the [IPPP](ippp.dur.ac.uk/), Durham University.
+**THIS SITE IS NOW ARCHIVED FOLLWOWING MY EMPLOYMENT AT THE WELLCOME SANGER INSTITUTE**
+
+I'm Hitham, a Ph.D. Graduate of the [IPPP](ippp.dur.ac.uk/), Durham University and now a research software engineer in bioinformatics at the Wellcome Sanger Institute.
 
 I am a talented **researcher** in theoretical particle physics, experienced in **test-driven software development**, techniques in **data science**, and **communicating** the results of my research to **diverse audiences**.
 
@@ -30,7 +32,5 @@ I have been proactive about nurturing my interests in **climate science**, **dat
 Additionally, I have consistently demonstrated strong commitment to engaging with **outreach** initiatives to make science as **inclusive** and **accessible** as possible.
 
 I submitted my PhD thesis on 31 May 2023 and passed my VIVA examination with minor corrections on 19th October 2023, now I seek to develop my skills with a **challenging** and **rewarding** career in industry.
-
-The work I would find most fulfilling would be research and innovation for pioneering companies in fields that produce a positive impact on the world.
 
 In my spare time I enjoy reading fiction, bouldering, running, long walks on the beach, and creative writing.
