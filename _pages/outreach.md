@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 I have accumulated significant **supporting experience** throughout my time as a postgraduate
-researcher at Durham University, this includes commitment to **outreach** and **EDI**
+researcher at Durham University, this includes commitment to **outreach**
 initiatives as well as **teaching** and **training** courses, and experience
 **supervising** students.
 
@@ -63,16 +63,6 @@ The following is a list of courses I have demonstrated and/or taught at Durham U
 - Sept 2018 - Mar 2019: **Assignment marker** for undergraduate tutorials in **Complex Analysis**.
 
 ---
-
-## Equity, Diversity, and Inclusion
-
-During my time at the IPPP, I was an active member of the **Equity, Diversity, and Inclusion** (EDI) committee
-from 2021-2023, this experience includes:
-- Organising, leading, and participating in discussions related to (EDI) in our department.
-- Liasing with administrative staff, staff from other institutions to make graduate recruitment process
-more equitable.
-- Co-drafted code of conduct for conferences at the institute within the context of EDI.
-
 
 ## President of YTF22 Conference Organising Committee
 IPPP, Durham University (Sept 2022 - Jan 2023)
